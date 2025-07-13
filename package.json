@@ -4,7 +4,9 @@
   "description": "practicing react",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel index.html && npm run git:auto-commit",
+    "git:auto-commit": "node ./scripts/autoGitPush.js"
   },
   "repository": {
     "type": "git",
