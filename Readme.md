@@ -1,0 +1,1 @@
+Itna dur jab ahi gye ho to hardwork bhi dkhlo
