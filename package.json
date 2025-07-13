@@ -1,0 +1,30 @@
+{
+  "name": "reactpractice",
+  "version": "1.0.0",
+  "description": "practicing react",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prakritish-bhattacharya/REACTpractice.git"
+  },
+  "keywords": [
+    "react",
+    "practice"
+  ],
+  "author": "piku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prakritish-bhattacharya/REACTpractice/issues"
+  },
+  "homepage": "https://github.com/Prakritish-bhattacharya/REACTpractice#readme",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
