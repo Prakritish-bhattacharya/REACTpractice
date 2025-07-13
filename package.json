@@ -2,7 +2,7 @@
   "name": "reactpractice",
   "version": "1.0.0",
   "description": "practicing react",
-  "main": "index.js",
+ 
   "scripts": {
     "test": "jest",
     "start": "parcel index.html && npm run git:auto-commit",
