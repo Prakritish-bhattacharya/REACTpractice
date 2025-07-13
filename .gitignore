@@ -27,3 +27,12 @@ Thumbs.db
 
 # Windows thumbnail cache
 ehthumbs.db
+# node_modules
+node_modules/
+
+# build output
+dist/
+.parcel-cache/
+
+# dotenv
+.env
