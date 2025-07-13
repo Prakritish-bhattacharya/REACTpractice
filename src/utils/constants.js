@@ -1,0 +1,1 @@
+export const LOGO_URL = "../assets/medicine-shop-final-logo"
