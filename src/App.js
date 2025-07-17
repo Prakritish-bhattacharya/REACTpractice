@@ -12,7 +12,8 @@ import Header from "./Components/Header"
 
 const AppLayout =()=>{
     return(
-        <div className="appp">
+        
+        <div className="app">
             <Header></Header>
         </div>
     )
