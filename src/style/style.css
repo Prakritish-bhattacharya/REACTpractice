@@ -26,6 +26,15 @@
     height: 300px;
     border: 1px solid black;
 }
+
 .search{
     padding: 5px;
+}
+.res-card img{
+    width: 200px;
+}
+.res-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
