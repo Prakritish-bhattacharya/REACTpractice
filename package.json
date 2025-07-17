@@ -2,10 +2,7 @@
   "name": "reactpractice",
   "version": "1.0.0",
   "description": "practicing react",
-<<<<<<< HEAD
-=======
  
->>>>>>> 17eaefa6f85b55b17496ef93d43a369ce67b8940
   "scripts": {
     "test": "jest",
     "start": "parcel index.html && npm run git:auto-commit",
@@ -30,10 +27,7 @@
     "react-dom": "^19.1.0"
   },
   "devDependencies": {
-<<<<<<< HEAD
     "jest": "^30.0.4",
-=======
->>>>>>> 17eaefa6f85b55b17496ef93d43a369ce67b8940
     "parcel": "^2.15.4"
   }
 }

@@ -14,7 +14,7 @@ const AppLayout =()=>{
     return(
         
         <div className="app">
-            <Header></Header>
+            <Header/>
         </div>
     )
 }
