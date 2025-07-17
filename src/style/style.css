@@ -6,6 +6,8 @@
 .mother-container {
     display: flex;
     justify-content: space-between;
+    /* border: 1px solid red; */
+    background-color: #eee;
 }
 .mother-container .logo-image img{
     width: 100px;
@@ -18,4 +20,12 @@
 }
 .mother-container .nav-items li{
     padding: 30px 20px 20px 20px;
+}
+.res-card{
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+}
+.search{
+    padding: 5px;
 }
