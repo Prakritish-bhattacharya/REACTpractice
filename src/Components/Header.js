@@ -1,6 +1,6 @@
-import { useState } from "react"
 import { LOGO_URL } from "../utils/constants"
 const Header = ()=>{
+
     return(
         <div className="mother-container">
             <div className="logo-image">
