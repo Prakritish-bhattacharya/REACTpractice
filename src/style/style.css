@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.mother-container {
+    display: flex;
+    justify-content: space-between;
+}
+.mother-container .logo-image img{
+    width: 100px;
+    border-radius: 50px;
+}
+.mother-container .nav-items ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+.mother-container .nav-items li{
+    padding: 30px 20px 20px 20px;
+}

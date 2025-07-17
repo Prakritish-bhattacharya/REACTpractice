@@ -1,0 +1,1 @@
+export const LOGO_URL = "https://imgs.search.brave.com/IJlUcKx8-U7lpYUXTvgDl04EY-V1C967gBK7TTZ5C8Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tYXJr/ZXRwbGFjZS5jYW52/YS5jb20vRUFGREFf/WDlIYkUvMi8wLzE2/MDB3L2NhbnZhLW1p/bmltYWxpc3QtbW9u/b2dyYW0tbG9nby1p/bml0aWFsZW4tbmFt/ZS1BRUtENFZLc0tP/NC5qcGc"
